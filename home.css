@@ -1,0 +1,51 @@
+body{
+    color: #000000FF;
+    
+}
+h1{
+    text-align: center;
+    font-size: 4rem;
+    line-height: 5.5rem;
+  }
+  
+.jumbotron{
+ text-align:center; 
+ color:#FFFFFFFF;
+ background-color:#000000FF;  
+}
+
+.image{
+    margin:0 auto;
+    width:120px;
+    height:120px;
+    background-image:url(img/pic.jpg);
+    background-size:cover;
+    border-radius:50%;
+    background-repeat:no-repeat;
+    background-position:center center;
+    
+}
+#exp{
+    background-color : ; 
+}
+.boxt{
+
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+    max-width: 75rem;
+}
+.desc{
+
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+    max-width: 75rem;
+}
+p.lead {
+    font-size: 1.15rem;
+    font-weight: 400;
+  }
+.logo{
+    width:100%;
+    margin:0 auto;
+    padding-top: 20px;
+}
